@@ -1,0 +1,35 @@
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb

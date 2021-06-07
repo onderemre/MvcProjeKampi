@@ -1,0 +1,26 @@
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\EMRE\Desktop\Vısual Studio\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Emre\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
